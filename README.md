@@ -14,4 +14,5 @@ Scratchのsb3ファイルとフォルダーを相互変換するWindows向けツ
 
 ## 動作環境
 
-Windows11
+- Windows 11
+- その他のWindowsバージョンでは動作未確認
